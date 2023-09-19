@@ -115,7 +115,11 @@ In Malaysia, infectious diseases continue to pose a formidable public health cha
 With the use of data analysis platforms such as KNIME that I have used, it provides a great contribution to the understanding and handling of infectious diseases. Through in-depth data analysis, I can research and health practitioners to identify trends and patterns of infectious diseases more efficiently. Thus, preventive, surveillance, and intervention measures can be taken faster, reducing the impact of infectious diseases on the population. In addition, the use of KNIME has also helped in making better decisions, and improved the management of health data as a whole. With this technology, our hope is to create a world that is better prepared to face the challenges of infectious diseases.
 
 
+## Reference
 
+- https://datacubeth.ai/crisp-dm/ crisp dm
+  
+- https://archive.data.gov.my/data/ms_MY/dataset/number-of-cases-of-communicable-diseases-by-type-of-diseases-malaysia  my data take it from
 
 
 
