@@ -93,7 +93,7 @@ In Malaysia, infectious diseases continue to pose a formidable public health cha
 
 ![WhatsApp Image 2023-09-19 at 19 16 30](https://github.com/ZakwannAzman/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/95738188/38a4fd0a-9fc5-4cae-bdcc-91136705af24)
 
--Roc Curve
+- Roc Curve
 
 ![WhatsApp Image 2023-09-19 at 19 17 34](https://github.com/ZakwannAzman/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/95738188/7afd05f7-120f-4ecc-8561-d362439231f9)
 
